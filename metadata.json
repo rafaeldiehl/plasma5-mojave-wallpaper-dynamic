@@ -1,0 +1,77 @@
+[
+  {
+    "CrossFade": true,
+    "Time": "00:00",
+    "FileName": "mojave_dynamic-0000.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "03:00",
+    "FileName": "mojave_dynamic-0300.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "06:00",
+    "FileName": "mojave_dynamic-0600.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "07:00",
+    "FileName": "mojave_dynamic-0700.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "09:00",
+    "FileName": "mojave_dynamic-0900.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "10:00",
+    "FileName": "mojave_dynamic-1000.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "11:00",
+    "FileName": "mojave_dynamic-1100.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "12:00",
+    "FileName": "mojave_dynamic-1200.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "14:00",
+    "FileName": "mojave_dynamic-1400.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "15:00",
+    "FileName": "mojave_dynamic-1500.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "16:00",
+    "FileName": "mojave_dynamic-1600.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "17:00",
+    "FileName": "mojave_dynamic-1700.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "18:00",
+    "FileName": "mojave_dynamic-1800.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "19:00",
+    "FileName": "mojave_dynamic-1900.jpg"
+  },
+  {
+    "CrossFade": true,
+    "Time": "21:00",
+    "FileName": "mojave_dynamic-2100.jpg"
+  }
+]
